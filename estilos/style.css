@@ -40,13 +40,13 @@ main{
 }
 #redes-sociais{
     text-align: right;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 #redes-sociais img{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+    box-shadow: 2px 2px px rgba(0, 0, 0, 0.384);
     box-sizing: border-box;
 }
 #redes-sociais img:hover{
